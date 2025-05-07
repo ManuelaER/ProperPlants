@@ -1,0 +1,38 @@
+body {
+    margin: 50px;
+  display: inline-flex;
+  place-items: center;
+  font-family: 'lucida Calligraphy';
+}
+
+.available {
+    display: inline-flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.individual {
+    margin: 10px;
+    padding: 30px;
+    width: 130px;
+    height: 130px;
+    border: solid lightgrey 2px;
+    border-radius: 10px;
+}
+
+.b {
+    display: inline-flex;
+}
+
+.display {
+    font-size: 60px;
+}
+
+.cart {
+    margin: 15px;
+    padding: 10px;
+}
+
+button {
+    font-family: 'lucida sans';
+}
